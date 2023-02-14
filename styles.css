@@ -1,0 +1,48 @@
+head
+{
+    font-family: sans-serif;
+}
+
+h1
+{
+    color: white;
+    text-align: center;  
+    background-color: #f02425;
+    font-size: 80px
+}
+
+h2,h3,h4,h5
+{
+    color: #f02425;
+    text-align: center;
+    font-size: 50px;
+}
+
+p
+{
+    font-size: 24px;
+}
+
+body
+{
+    background-color: #fff3db;
+    font-family: sans-serif;
+}
+
+li
+{
+    font-size: 22px;
+}
+
+.bleu
+{
+    text-align: center;
+    font-size: 30px;
+}
+
+.megabonus
+{
+    text-align: center;
+    background-color: #FED48A;
+    font-size: 24px;
+}

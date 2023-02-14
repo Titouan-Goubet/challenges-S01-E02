@@ -27,14 +27,20 @@ body
 {
     background-color: #fff3db;
     font-family: sans-serif;
+
+}
+
+strong 
+{
+    font-weight: bold;
 }
 
 li
 {
-    font-size: 22px;
+    font-size: 24px;
 }
 
-.bleu
+.Underlined
 {
     text-align: center;
     font-size: 30px;
@@ -45,4 +51,5 @@ li
     text-align: center;
     background-color: #FED48A;
     font-size: 24px;
+    color: rgb(122, 122, 122);
 }
